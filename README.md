@@ -1,7 +1,5 @@
 # Statistical Calculator
 
-A lightweight JavaScript application that calculates common statistical measures from a set of numbers. This tool provides instant calculations of mean, median, mode, range, variance, and standard deviation.
-
 ## Features
 
 - **Real-time Calculations**: Instantly updates results as you input numbers
